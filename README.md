@@ -24,7 +24,7 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       ![Screenshot 2025-05-06 205600](https://github.com/user-attachments/assets/edf5e57e-4b27-41c2-b4d1-eb15dbe6782e)
+![Screenshot 2025-05-06 205600](https://github.com/user-attachments/assets/edf5e57e-4b27-41c2-b4d1-eb15dbe6782e)
        ![Screenshot 2025-05-06 205612](https://github.com/user-attachments/assets/c9da9ca3-f432-469a-b78f-f6bec7484fca)
        ![Screenshot 2025-05-06 205643](https://github.com/user-attachments/assets/5a26a039-c886-48d4-ba91-79a8389ebd24)
        ![Screenshot 2025-05-06 205649](https://github.com/user-attachments/assets/af426f9d-16de-4bf9-85a6-b16d2009c7c3)
